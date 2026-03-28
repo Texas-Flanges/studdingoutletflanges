@@ -221,9 +221,7 @@ export default function Home() {
             marginBottom: "16px",
           }}
         >
-          Carbon Steel / Stainless / Alloy Flanges per ASME / ANSI / AWWA / API.
-          Offering a wide variety of flange types and sizes, ensuring that we can
-          meet the needs of our customers across many industries.
+          Carbon, Stainless, and Alloy studding outlets per ASME Section VIII, in a wide variety of sizes and mounts for your project needs.
         </p>
         <p
           style={{
@@ -234,11 +232,7 @@ export default function Home() {
             marginBottom: "32px",
           }}
         >
-          Manufacturing and Supplying a complete line of Industrial Pipe Flanges
-          with Multiple materials available. Custom solutions or standard products,
-          we have the ability to provide high-quality flanges that meet industry
-          standards and specifications, providing safety and efficiency in your
-          operations.
+          Manufacturing and supplying a complete line of studding pad flange outlets. We can provide flat bottom, shell mount, head mount, or even tangential mount for your tank or pressure vessel configurations.
         </p>
         <div style={{ display: "flex", gap: "16px" }}>
           <a
@@ -312,63 +306,27 @@ export default function Home() {
           what they are and their key characteristics.
         </p>
 
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "1fr 1fr",
-            gap: "48px",
-            alignItems: "center",
-          }}
-        >
-          <div>
-            <h3
-              style={{
-                fontSize: "24px",
-                fontWeight: 600,
-                color: "#1a3a5c",
-                marginBottom: "16px",
-              }}
-            >
-              Understanding Studding Outlet Flanges
-            </h3>
-            <p style={{ fontSize: "16px", lineHeight: 1.8, color: "#555" }}>
-              Studding Outlet Flanges, also known as &quot;pad flanges,&quot; are
-              fittings that facilitate connections between pipes and tanks or other
-              pipes. They are designed to be installed both on the inside and
-              outside of vessels, tanks, and pipes. Think of them as puzzle pieces
-              that ensure a snug and secure fit, allowing for the efficient flow of
-              liquids and gases.
-            </p>
-            <p
-              style={{
-                fontSize: "12px",
-                color: "#999",
-                marginTop: "12px",
-                fontStyle: "italic",
-              }}
-            >
-              Image source:{" "}
-              <a
-                href="https://texasflange.com?ref=studdingoutletflanges"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: "#999" }}
-              >
-                Texas Flange
-              </a>
-            </p>
-          </div>
-          <div>
-            <img
-              src="/studding-outlet-flanges-hero.png"
-              alt="Studding outlet flanges on copper pipe"
-              style={{
-                width: "100%",
-                borderRadius: "12px",
-                boxShadow: "0 4px 20px rgba(0,0,0,0.1)",
-              }}
-            />
-          </div>
+        <div style={{ display: "flex", gap: "24px", justifyContent: "center", flexWrap: "wrap" }}>
+          <img
+            src="/studding-outlet-flange1.jpg"
+            alt="Studding Outlet Flange - Top View"
+            style={{
+              maxWidth: "337px",
+              width: "100%",
+              borderRadius: "10px",
+              boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+            }}
+          />
+          <img
+            src="/studding-outlet-flange2.jpg"
+            alt="Studding Outlet Flange - Cutaway View"
+            style={{
+              maxWidth: "369px",
+              width: "100%",
+              borderRadius: "10px",
+              boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+            }}
+          />
         </div>
       </section>
 
@@ -418,33 +376,14 @@ export default function Home() {
           >
             <div>
               <img
-                src="/types-of-studding-outlet-flanges.png"
-                alt="Types of studding outlet flanges"
+                src="/studding-outlet-flange-dwgs.jpg"
+                alt="Studding Outlet Flange Configurations - Flat Bottom, Shell or Head Mount, Tangential Mount"
                 style={{
                   width: "100%",
                   borderRadius: "12px",
                   boxShadow: "0 4px 20px rgba(0,0,0,0.1)",
                 }}
               />
-              <p
-                style={{
-                  fontSize: "12px",
-                  color: "#999",
-                  marginTop: "12px",
-                  fontStyle: "italic",
-                  textAlign: "center",
-                }}
-              >
-                Image source:{" "}
-                <a
-                  href="https://texasflange.com?ref=studdingoutletflanges"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{ color: "#999" }}
-                >
-                  Texas Flange
-                </a>
-              </p>
             </div>
             <div>
               <div style={{ marginBottom: "24px" }}>
