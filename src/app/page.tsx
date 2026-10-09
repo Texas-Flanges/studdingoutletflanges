@@ -166,7 +166,7 @@ export default function Home() {
             FAQ
           </a>
           <a
-            href="https://texasflange.com?ref=studdingoutletflanges"
+            href="https://texasflange.com/products/flange-dims-weights/studding-outlets-for-flanges/?ref=studdingoutletflanges"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -251,7 +251,7 @@ export default function Home() {
             Learn More
           </a>
           <a
-            href="https://texasflange.com?ref=studdingoutletflanges"
+            href="https://texasflange.com/products/flange-dims-weights/studding-outlets-for-flanges/?ref=studdingoutletflanges"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -766,7 +766,7 @@ export default function Home() {
             pipe connections across different industries. For more information
             regarding Studding Outlet Flanges visit{" "}
             <a
-              href="https://texasflange.com?ref=studdingoutletflanges"
+              href="https://texasflange.com/products/flange-dims-weights/studding-outlets-for-flanges/?ref=studdingoutletflanges"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "#82b1ff" }}
@@ -777,7 +777,7 @@ export default function Home() {
           </p>
           <div style={{ display: "flex", gap: "16px", justifyContent: "center" }}>
             <a
-              href="https://texasflange.com?ref=studdingoutletflanges"
+              href="https://texasflange.com/products/flange-dims-weights/studding-outlets-for-flanges/?ref=studdingoutletflanges"
               target="_blank"
               rel="noopener noreferrer"
               style={{
